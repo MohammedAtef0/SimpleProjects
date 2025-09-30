@@ -1,2 +1,2 @@
 # SimpleProjects
-Just simple porjects using python programming language 
+Just simple projects using the Python programming language 
